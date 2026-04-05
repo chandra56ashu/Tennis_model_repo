@@ -320,7 +320,7 @@ st.markdown("""
          Tennis analytics dashboard for predicting the likely winner between two players before the match begins.
     </div>
     <div class="tiny-note">
-        This app is for academic use only built for Professor Vineet Agarwal by his students - S489801, S477223, S481517, S487932
+        This app is for academic use only built for Dr. Vineet Agarwal by his students - S489801, S477223, S481517, S487932
     </div>
 </div>
 """, unsafe_allow_html=True)
