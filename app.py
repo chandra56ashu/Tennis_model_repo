@@ -477,9 +477,9 @@ with c4:
 # =========================================================
 # BACKEND FEATURE ENGINEERING
 # =========================================================
-rank_diff = rank_1 - rank_2
+rank_diff = rank_2 - rank_1
 pts_diff = pts_1 - pts_2
-odd_diff = odd_1 - odd_2
+odd_diff = odd_2 - odd_1
 
 input_df = pd.DataFrame([{
     "Rank_Diff": rank_diff,
