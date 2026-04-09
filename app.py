@@ -357,7 +357,6 @@ left, middle, right = st.columns([4, 1.15, 4], vertical_alignment="center")
 
 with left:
     st.markdown("""
-    <div class="player-card">
         <div class="player-label">Competitor A</div>
     """, unsafe_allow_html=True)
 
@@ -404,7 +403,6 @@ with middle:
 
 with right:
     st.markdown("""
-    <div class="player-card">
         <div class="player-label">Competitor B</div>
     """, unsafe_allow_html=True)
 
